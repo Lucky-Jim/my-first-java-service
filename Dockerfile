@@ -1,5 +1,5 @@
 FROM jamesdbloom/docker-java8-maven
-EXPOSE 8181
+EXPOSE 8080
 WORKDIR /app
 COPY . /app
 
